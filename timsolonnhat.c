@@ -2,5 +2,7 @@
 #include <stdlib.h>
 
 void main (){
-    printf("Helloworld");
+    printf("Helloworld");;
+    printf("Ngaaa");
+
 }
